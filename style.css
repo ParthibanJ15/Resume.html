@@ -1,0 +1,25 @@
+body
+{
+    background-image: url(https://images.hdqwalls.com/wallpapers/scorpion-mortal-kombat-dark-minimal-8k-3z.jpg);
+    background-size: cover;
+    background-repeat:no-repeat ;
+}
+h1
+{
+    color:gray;
+    text-align: center;
+    font-size:500%;
+    font-family: 'Chivo Mono', monospace;
+font-family: 'Tilt Prism', cursive;
+}
+h2
+{
+color: burlywood;
+font-family: 'Caveat Brush', cursive;
+font-family: 'Rubik Wet Paint', cursive;
+}
+h3
+{
+    color: cadetblue;
+    font-family: 'Chivo Mono', monospace;
+}

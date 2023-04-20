@@ -1,0 +1,12 @@
+body{
+background-image: url(https://images6.alphacoders.com/648/648552.jpg);    
+background-size: cover;
+    background-repeat: no-repeat;
+}
+h1
+{
+    font-family: 'Permanent Marker', cursive;
+    color:aqua;
+    text-align: center;
+    font-size:500%;
+}
